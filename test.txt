@@ -1,0 +1,5 @@
+address=/.nintendoswitch.com/127.0.0.1
+address=/.nintendoswitch.com.cn/127.0.0.1
+address=/.nintendoswitch.cn/127.0.0.1
+address/.nega-lp1-upload.s3.us-east-1.amazonaws.com/127.0.0.1
+EOF
