@@ -36,3 +36,17 @@ nintendoswitch.cn
 conntest.nintendowifi.net
 ctest.cdn.nintendo.net
 0.0.0.0 inet.se
+0.0.0.0 ctest.cdn.nintendo.net
+0.0.0.0 accounts.nintendo.com
+
+lp1.nso.nintendo.net
+val.hac.lp1.penne.srv.nintendo.net
+fro-2.hac.lp1.penne.srv.nintendo.net
+e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+app.lp1.five.nintendo.net
+bcat-topics-lp1.cdn.nintendo.net
+nemof.hac.lp1.nemo.srv.nintendo.net
+accounts.nintendo.com
+bugyo.hac.lp1.eshop.nintendo.net
+sun.hac.lp1.d4c.nintendo.net
+sun.hac.lp1.d4c.nintendo.net
