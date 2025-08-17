@@ -1,5 +1,5 @@
 # 90DNS-equivalent
-nintendo.com
+0.0.0.0 nintendo.com
 nintendo.net
 nintendo.jp
 nintendo.co.jp
