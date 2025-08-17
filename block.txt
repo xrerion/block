@@ -27,7 +27,7 @@ nintendo.no
 nintendo.pt
 nintendo.ru
 nintendo.co.za
-nintendo.se
+0.0.0.0 nintendo.se
 nintendo.ch
 nintendo.pl
 nintendoswitch.com
