@@ -35,3 +35,4 @@ nintendoswitch.com.cn
 nintendoswitch.cn
 conntest.nintendowifi.net
 ctest.cdn.nintendo.net
+inet.se
